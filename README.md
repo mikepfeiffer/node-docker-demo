@@ -4,7 +4,7 @@
 
 ## App Info
 
-This is a Node and Express web application built to run in a Docker container. I use it when doing demos with Docker.
+This is a Node and Express web application built to run in a Docker container. I use it for demos with Docker.
 
 ### Author
 
