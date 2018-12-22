@@ -2,9 +2,9 @@
 
 > This is a bare bones Node & Express app for Docker demos.
 
-This is a Node and Express web application built to run in a Docker container. I use it when doing demos with Docker.
-
 ## App Info
+
+This is a Node and Express web application built to run in a Docker container. I use it when doing demos with Docker.
 
 ### Author
 
