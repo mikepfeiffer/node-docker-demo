@@ -1,7 +1,7 @@
 {
   "name": "node-docker-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a bare bones Node & Express app for Docker demos.",
   "main": "index.js",
   "scripts": {
     "build": "npm install",
