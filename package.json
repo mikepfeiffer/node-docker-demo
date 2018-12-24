@@ -9,10 +9,15 @@
     "start": "node app.js"
   },
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/mikepfeiffer/node-docker-demo.git"
-  }, 
-  "keywords": [ "node", "express", "docker", "azure" ],
+    "type": "git",
+    "url": "https://github.com/mikepfeiffer/node-docker-demo.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "docker",
+    "azure"
+  ],
   "author": "Mike Pfeiffer",
   "license": "Apache-2.0",
   "dependencies": {
