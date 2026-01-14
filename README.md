@@ -6,11 +6,6 @@
 
 This is a Node and Express web application built to run in a Docker container. I use it for demos with Docker.
 
-### Author
-
-Mike Pfeiffer
-[@mike_pfeiffer](https://twitter.com/mike_pfeiffer)
-
 ### Version
 
 1.0.0
